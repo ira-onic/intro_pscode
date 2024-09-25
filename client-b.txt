@@ -2,3 +2,14 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+START
+
+Prompt user for destination selection
+Determine user’s current location
+Determine the shortest walking path to the selected location from the user’s location
+Display walking directions one step at a time to go from user’s location (point a) to selected location (point b)
+- Indicate directions (north/south/east/west) to have user move in a grid-like pattern to selected destination
+Clear directions once user reaches selected destination
+Return to start screen
+
+END
